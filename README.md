@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h3 align="center">A 4th year Electrical and Computer Engineering student from Portugal</h3>
 <h3 align="center">Majoring at Control, Robotics and AI @ IST</h3>
 
-
+<p align="left"> 🏎️ F1 Enthusiast</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vascodvrodrigues&label=Profile%20views&color=0e75b6&style=flat" alt="vascodvrodrigues" /> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -29,3 +29,6 @@ Here are some ideas to get you started:
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VascoDVRodrigues&theme=monokai-metallian&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VascoDVRodrigues&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
