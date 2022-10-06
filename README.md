@@ -1,5 +1,5 @@
 <div class="container">
-  <img src="https://wallpaper.dog/large/5558019.jpg" alt="Snow" style="width:100%;">
+  <img src="https://wallpaper.dog/large/5558019.jpg" alt="Snow" style="width:100%; height: 100px">
   <div class="bottom-left">Bottom Left</div>
   <div class="top-left">Top Left</div>
   <div class="top-right">Top Right</div>
