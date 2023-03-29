@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vasco Rodrigues</h1>
 <h3 align="center">A 5th year Electrical and Computer Engineering student from Portugal</h3>
 <h3 align="center">Majoring at Control✈‍, Robotics🦾 and AI🧠 @ IST</h3>
+<h3 align="center">Writing my thesis on marine environment sensor fusion @ SEA.AI</h3>
+
 
 <p align="left"> 🏎️ F1 Enthusiast</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vascodvrodrigues&label=Profile%20views&color=0e75b6&style=flat" alt="vascodvrodrigues" /> </p>
